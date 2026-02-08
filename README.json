@@ -72,10 +72,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-02-02T14:01:03Z",
+            "last_commit": "2026-02-07T19:52:15Z",
             "owner": "netz98",
             "repo": "n98-magerun2",
-            "stars": 924
+            "stars": 923
           }
         },
         {
@@ -212,10 +212,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-02-07T04:51:41Z",
+            "last_commit": "2026-02-08T03:42:37Z",
             "owner": "ddev",
             "repo": "ddev",
-            "stars": 3480
+            "stars": 3482
           }
         },
         {
@@ -254,7 +254,7 @@
             "last_commit": "2025-11-12T21:59:51Z",
             "owner": "nunomaduro",
             "repo": "phpinsights",
-            "stars": 5571
+            "stars": 5573
           }
         },
         {
@@ -1527,7 +1527,7 @@
             "last_commit": "2026-02-06T14:43:39Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12038
+            "stars": 12040
           }
         },
         {
@@ -1709,7 +1709,7 @@
             "last_commit": "2026-01-17T16:29:34Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32347
+            "stars": 32349
           }
         },
         {
@@ -1735,10 +1735,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:19:53.120Z",
+    "last_updated": "2026-02-08T04:29:42.822Z",
     "original_repository": "DavidLambauer/awesome-magento2",
     "source_repository": "v1nvn/enhansome-magento2",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Magento 2 with stars"
   }
 }
